@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá. Sou Marcelo Félix. Bel. em Direito, atualmente Servidor Público na Prefeitura Municipal de Santos-SP. Estudante no Curso Técnico em Desenvolvimento de Sistemas da ETEC Santos Dumont. 👋
 
 <!--
 **marcelosantosguaruja/marcelosantosguaruja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
