@@ -1,4 +1,8 @@
-## Olá. Sou Marcelo Félix. Bel. em Direito, atualmente Servidor Público na Prefeitura Municipal de Santos-SP. Estudante no Curso Técnico em Desenvolvimento de Sistemas da ETEC Santos Dumont. 👋
+# Olá, eu sou o MARCELO FÉLIX DOS SANTOS!
+- Estudante de Desenvolvimento de Sistemas;
+- Estou gosttando de Python, aguardando para aprender também HTML e CSS
+- Preparando-me para o mercado de tecnologia
+- Contato: marcelosantosguaruja@gmail.com 👋
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
