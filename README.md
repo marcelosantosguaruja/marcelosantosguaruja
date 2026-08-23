@@ -4,10 +4,10 @@
 - Preparando-me para o mercado de tecnologia
 - Contato: marcelosantosguaruja@gmail.com 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+## Como me encontrar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-félix-dos-santos-b1128b12a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:marcelosantosguaruja@gmail.com) 
+
 
 <!--
 **marcelosantosguaruja/marcelosantosguaruja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
