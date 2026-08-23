@@ -1,16 +1,13 @@
 # Olá, eu sou o MARCELO FÉLIX DOS SANTOS!
 - Estudante de Desenvolvimento de Sistemas;
-- Estou gosttando de Python, aguardando para aprender também HTML e CSS
-- Preparando-me para o mercado de tecnologia
-- Contato: marcelosantosguaruja@gmail.com 👋
+- Preparando-me para o mercado de tecnologia;
 
 ## Como me encontrar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-félix-dos-santos-b1128b12a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:marcelosantosguaruja@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5513997981708)
 
-## TÉCNOLOGIAS QUE ESTOU ESTUDANDO
-## Tecnologias que estudo
+## TÉCNOLOGIAS QUE ESTUDO:
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
