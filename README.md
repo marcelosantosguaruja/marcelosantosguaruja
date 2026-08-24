@@ -15,6 +15,7 @@
 ---
 
 ## Experiência Profissional ##
+- Concursado na Prefeitura Municipal de Santos-SP
 - Oficial de Registro de Imóveis:
   - Guarujá-SP (1998 - 2020)
   - Vivência no Exterior (2020 - 2022)
