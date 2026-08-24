@@ -1,11 +1,25 @@
 # Olá, eu sou o MARCELO FÉLIX DOS SANTOS!
 
 ## Sobre mim
+- Bacharel em Direito.
+- Pós graduação em:
+  - Direito Imobiliário e Condominial;
+  - Registros Públicos;
+- Teólogo (curso livre);
+- Técnico em Transações Imobiliárias.
+ 
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 - Sempre aprendendo novas tecnologias e boas práticas de programação
 - Interesse especial em **projetos web** e **desenvolvimento front-end**
+
 ---
 
+## Experiência Profissional ##
+- Oficial de Registro de Imóveis:
+  - Guarujá-SP (1998 - 2020)
+  - Vivência no Exterior (2020 - 2022)
+  - Santos-SP (2023-2025
+    
 ## Como me encontrar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-félix-dos-santos-b1128b12a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:marcelosantosguaruja@gmail.com) 
