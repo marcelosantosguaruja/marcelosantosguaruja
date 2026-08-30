@@ -1,11 +1,11 @@
 # Olá, eu sou o MARCELO FÉLIX DOS SANTOS!
 
 ## Sobre mim
-- Bacharel em Direito.
-- Pós graduação em:
-  - Direito Imobiliário e Condominial;
+- Bacharel em Direito ![bacharelemdireito](https://img.shields.io/badge/bacharelemdireito-blue?logo=bacharelemDireito&logoColor=blue)
+- Pós Graduado - ![posgraduado](https://img.shields.io/badge/posgraduado-blue?logo=posgraduado&logoColor=black)
+  - Direito Imobiliário e Condominial; 
   - Registros Públicos;
-- Teólogo (curso livre);
+- Teologia ![teologia](https://img.shields.io/badge/teologia-blue?logo=teologia&logoColor=blue)
 - Técnico em Transações Imobiliárias.
  
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
