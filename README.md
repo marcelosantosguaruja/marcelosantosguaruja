@@ -1,16 +1,16 @@
-# Olá, eu sou o MARCELO FÉLIX DOS SANTOS!
+# Olá, eu sou o MARCELO FÉLIX DOS SANTOS!🙋‍♂️
 
 ## Sobre mim
-- Bacharel em Direito ![bacharelemdireito](https://img.shields.io/badge/bacharelemdireito-blue?logo=bacharelemDireito&logoColor=blue)
+- 👨‍⚖️Bacharel em Direito ![bacharelemdireito](https://img.shields.io/badge/bacharelemdireito-blue?logo=bacharelemDireito&logoColor=blue)
 - Pós Graduado - ![posgraduado](https://img.shields.io/badge/posgraduado-blue?logo=posgraduado&logoColor=black)
   - Direito Imobiliário e Condominial; 
   - Registros Públicos;
-- Teologia ![teologia](https://img.shields.io/badge/teologia-blue?logo=teologia&logoColor=blue)
-- Técnico em Transações Imobiliárias.
+- 🤵Teologia ![teologia](https://img.shields.io/badge/teologia-blue?logo=teologia&logoColor=blue)
+- 👨‍💼Técnico em Transações Imobiliárias.
  
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
-- Sempre aprendendo novas tecnologias e boas práticas de programação
-- Interesse especial em **projetos web** e **desenvolvimento front-end**
+- Sempre aprendendo novas tecnologias e boas práticas de programação 🖥
+- Interesse especial em **projetos web** e **desenvolvimento front-end** 
 
 ---
 
@@ -50,6 +50,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 **marcelosantosguaruja/marcelosantosguaruja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
-*“Sempre aprendendo e evoluindo como desenvolvedor.”*
+*“Sempre aprendendo e evoluindo como desenvolvedor.”* 🚀
 
 -->
